@@ -1,4 +1,4 @@
-# STAP: Leveraging State-Transition Adversarial Perturbations for Asymmetric Website Fingerprinting Defenses
+# STAP: Leveraging State-Transition Adversarial Perturbations for Asymmetric Website Fingerprinting Defenses (TNSM'25)
 
 ## Introduction
 
