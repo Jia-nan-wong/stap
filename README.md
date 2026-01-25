@@ -17,7 +17,9 @@ If you find this repo useful, please cite our paper via
   author={Huang, Jianan and Liu, Weiwei and Liu, Guangjie and Gao, Bo and Nie, Fengyuan and Mellia, Marco},
   journal={IEEE Transactions on Network and Service Management},
   year={2025},
-  note={Early Access},
+  volume={22},
+  number={6},
+  pages={6200--6214},
   doi={10.1109/TNSM.2025.3597075}
 }
 ```
